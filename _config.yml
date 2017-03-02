@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: VineFiner
+SEOTitle: 休息的风的博客 | VineFiner
 header-img: img/post-bg-rwd.jpg
 email: qiubaiying@gmail.com
 description: "每个胜利背后都有许多尝试"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "https://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "BY, 休息的风的博客, iOS, Apple, iPhone"
+url: "https://VineFiner.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
